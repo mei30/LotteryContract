@@ -15,7 +15,7 @@ npm run test
 ```
 
 ## Deployment
-For deployment you should provide three informations: network, infura API key(I used infura platform for deployment) and your account private key. you should enter those information in form and envoirment variable values in a filed called .env(this file exist in root directory). and then simply run follwing command.
+For deployment you should provide three informations: network, infura API key(I used infura platform for deployment) and your account private key. you should enter those information using envoirment variable values in a filed called .env(this file exist in root directory). and then simply run follwing command.
 
 ```
 node deploy.js
